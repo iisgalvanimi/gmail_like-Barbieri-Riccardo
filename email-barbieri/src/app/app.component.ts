@@ -15,3 +15,6 @@ export class AppComponent {
     this.estratto = (Email.value) + " " + (Oggetto.value)
   }
 }
+export class Email{
+  
+}
